@@ -1,5 +1,5 @@
 function sim() {
-    alert("Você aceitou namorar comigo! :)");
+    alert("Apenas me escute, por favor!");
     changeDisplay();
     // redireciona para um URL após clicar no SIM
     // location.href = "https://music.youtube.com/watch?v=izGwDsrQ1eQ";
